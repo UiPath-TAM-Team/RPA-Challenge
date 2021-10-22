@@ -18,4 +18,4 @@ Input data from a spreadsheet into the form fields on [rpachallenge.com](http://
 
 ## Owner
 
-[Michael A.](https://linkedin.com/in/magarenzo)
+[Michael Agarenzo](https://linkedin.com/in/magarenzo), Technical Account Manager at UiPath
